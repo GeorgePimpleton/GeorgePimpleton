@@ -3,4 +3,6 @@
 
 I am a self-taught C/C++/Windows API programming ***hobbyist***, been learning for decades.
 
+I am certainly a "noob" when it comes to git and github. :Þ
+
 My profile picture shows my current feline, a very aloof and ornery netured male named "Smokey."
