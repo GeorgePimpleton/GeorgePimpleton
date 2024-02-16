@@ -1,5 +1,7 @@
 - Hi, I’m George P (NOT my meat world name)
-- 👀 You can usually find me hanging at in the forums @ https://cplusplus.com/  At this time CPlusPlus is not accepting new members.
+- 👀 You can usually find me hanging at in the forums @ https://cplusplus.com/
+
+At this time CPlusPlus is not accepting new members.  You can read what's going on, you just can't participate. :(
 
 I am a self-taught C/C++/Windows API programming ***hobbyist***, been learning for decades.
 
