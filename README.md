@@ -7,4 +7,4 @@ I am a self-taught C/C++/Windows API programming ***hobbyist***, been learning f
 
 I am certainly a *"noob"* when it comes to git and github. :Þ
 
-My profile picture shows my current feline, a very aloof and ornery netured male that sometimes answers to the name of "Smokey."
+My profile picture shows my current feline, a very aloof and ornery neutered male that sometimes answers to the name of "Smokey."
