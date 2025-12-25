@@ -1,5 +1,5 @@
 - Hi, I’m George P (NOT my meat world name)
-- 👀 You can usually find me hanging at in the forums @ https://cplusplus.com/
+- ~~👀 You can usually find me hanging at in the forums @ https://cplusplus.com/~~
 
 This is no longer the case, I've moved on.  The site is just marking time until the site owner pulls the plug.
 
